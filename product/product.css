@@ -1,0 +1,39 @@
+.product-body{
+    background-color: #EDF6F9;
+    height: 90vh;
+}
+
+.product-body div div div{
+    margin-top: 60px;
+}
+
+.product-body div div div img{
+    width: 80%;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.product-info h3{
+    font-size: 50px;
+}
+
+.product-info span{
+    display: flex;
+}
+
+.product-info span h2{
+    font-size: 50px;
+    color: red;
+}
+
+.product-info span h3{
+    font-size: 40px;
+    text-decoration: line-through;
+    margin-left: 5px;
+}
+
+.product-info button{
+    font-size: 30px;
+    padding: 5px 10px 5px 10px;
+    text-decoration: underline;
+}

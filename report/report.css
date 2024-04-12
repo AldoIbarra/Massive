@@ -1,0 +1,29 @@
+.report-body form{
+    display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+}
+
+.report-body form .filter-prod{
+    background-color: #E4E4E4;
+    border: none;
+}
+
+.report-body form .filter-prod:focus{
+    border: none;
+    outline: none;
+}
+
+.report-body .title{
+    font-size: 50px;
+    margin: 40px 0px 40px 0px;
+}
+
+.report-body .form-container{
+    margin-bottom: 40px;
+}
+
+.table-report td{
+    min-width: 100px;
+    border: solid black;
+}

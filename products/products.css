@@ -1,0 +1,30 @@
+.products-body{
+    background-color: #EDF6F9;
+    height: 100%;
+}
+
+.products-body form select{
+    width: 100%;
+}
+
+.products-body .products form select{
+    margin-top: 40px;
+}
+
+.products-body .products form button{
+    margin-top: 20px;
+}
+
+.cards-section .card-custom{
+    display: flex;
+    justify-content:center;
+    margin-top: 40px;
+}
+
+.cards-section .card-custom .card img{
+    object-fit: cover;
+}
+
+.cards-section .card-custom .card .card-body a{
+    
+}

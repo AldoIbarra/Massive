@@ -1,0 +1,60 @@
+.paying-body{
+    background-color: #EDF6F9;
+}
+
+.paying-body h1{
+    font-size: 50px;
+    margin: 40px 0px 40px 0px;
+}
+
+.paying-body .cards-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.paying-body .cards-section .custom-card{
+    display: flex;
+    background-color: #F0F2F2;
+    width: 90%;
+    border: solid gray 0.5px;
+    margin-bottom: 20px;
+}
+
+.paying-body .cards-section .custom-card img{
+    max-height: 25vh;
+    object-fit: cover;
+}
+
+.paying-body .cards-section .custom-card div{
+    margin: 10px 0px 0px 15px;
+}
+
+.paying-body .cards-section .custom-card p{
+    margin: 0px;
+}
+
+.paying-body .cards-section .custom-card a{
+    color: #006D77;
+    text-decoration: none;
+    margin: 0px;
+}
+
+.paying-body .totalize .totalize-container{
+    text-align: center;
+    background-color: #F0F2F2;
+}
+
+.paying-body .totalize .totalize-container button{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.paying-body .totalize-container h5{
+    padding-top: 15px;
+}
+
+.paying-body .totalize-container .desc{
+    padding: 0px 25px 0px 25px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,45 @@
+.sell-product-body{
+    background-color: #EDF6F9;
+    height: 90vh;
+}
+
+.sell-product-body .form-container h1{
+    margin-top: 50px;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.sell-product-body .form-container{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.sell-product-body .form-container form{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.sell-product-body .form-container form input,
+.sell-product-body .form-container form select{
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.sell-product-body .form-container form span{
+    display: flex;
+}
+
+.sell-product-body .form-container form span{
+    display: flex;
+}
+
+.sell-product-body .form-container form h3{
+    font-size: 20px;
+}
+
+.sell-product-body .form-container form button{
+    width: 25%;
+    font-size: 25px;
+}

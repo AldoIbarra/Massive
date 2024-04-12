@@ -1,0 +1,55 @@
+.history-body .cards-section .custom-card{
+    display: flex;
+    background-color: #F0F2F2;
+    width: 90%;
+    border: solid gray 0.5px;
+    margin-bottom: 20px;
+}
+
+.history-body .cards-section .custom-card img{
+    max-height: 25vh;
+    object-fit: cover;
+}
+
+.history-body .cards-section .custom-card div{
+    margin: 10px 0px 0px 15px;
+}
+
+.history-body .cards-section .custom-card p{
+    margin: 0px;
+}
+
+.history-body .cards-section .custom-card a{
+    color: #006D77;
+    text-decoration: none;
+    margin: 0px;
+}
+
+.history-body .cards-section .custom-card button{
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.history-body form{
+    display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+}
+
+.history-body form .filter-prod{
+    background-color: #E4E4E4;
+    border: none;
+}
+
+.history-body form .filter-prod:focus{
+    border: none;
+    outline: none;
+}
+
+.history-body .title{
+    margin: 40px 0px 40px 0px;
+}
+
+.history-body .form-container{
+    margin-bottom: 40px;
+}
